@@ -2,14 +2,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=2200&pause=800&color=4AFCB0&center=true&vCenter=true&width=520&lines=Junior+Full-Stack+Developer;Backend+%7C+TypeScript+%7C+Node.js;REST+APIs+%7C+PostgreSQL+%7C+MongoDB" alt="Typing SVG" />
 
-<h1>Hi there 👋 I'm Arham</h1>
+<h1>Abid Arham</h1>
 
 <p>
   <strong>Full-Stack Developer · Backend-Focused · CSE Student</strong>
 </p>
 
 <p>
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="www.linkedin.com/in/abid-arham-111457245" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:mix.arham@gmail.com">
     <img src="https://img.shields.io/badge/Email-1E2A3A?style=for-the-badge&logo=gmail&logoColor=4AFCB0" alt="Email"/>
   </a>
 </p>
@@ -34,27 +34,6 @@ I'm a **CSE student and junior full-stack developer** with a strong interest in 
 
 I enjoy building web applications where I have to think beyond the UI — designing APIs, modeling databases, implementing authentication, handling business logic, and connecting everything into a working system.
 
-```yaml
-name:       Arham
-role:       Junior Full-Stack Developer
-focus:
-  - Backend Engineering
-  - REST API Development
-  - Database Design
-  - Full-Stack Web Applications
-  - TypeScript & Node.js
-  - Software Architecture
-learning:
-  - Advanced TypeScript
-  - PostgreSQL & Prisma
-  - Backend Architecture
-  - Docker & Deployment
-open_to:
-  - Junior Software Engineering Roles
-  - Backend Development
-  - Full-Stack Development
-  - Internship Opportunities
-```
 
 ---
 
@@ -72,37 +51,7 @@ open_to:
 
 ---
 
-## `$ cat engineering.focus`
 
-```text
-                 ┌─────────────────────────┐
-                 │       WEB CLIENT         │
-                 └────────────┬────────────┘
-                              │
-                              ▼
-                 ┌─────────────────────────┐
-                 │        REST API         │
-                 │   Node.js / Express     │
-                 └────────────┬────────────┘
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-       ┌──────────┐     ┌───────────┐    ┌──────────┐
-       │   AUTH   │     │  BUSINESS │    │VALIDATION│
-       │   JWT    │     │   LOGIC   │    │   Zod    │
-       └────┬─────┘     └─────┬─────┘    └──────────┘
-            │                 │
-            └────────┬────────┘
-                     ▼
-             ┌───────────────┐
-             │    DATABASE   │
-             │ PostgreSQL /  │
-             │ MongoDB/MySQL │
-             └───────────────┘
-```
-
----
 
 ## 💼 Looking For
 
@@ -251,31 +200,8 @@ Docker & Deployment
 Production-Ready Applications
 ```
 
-I'm less interested in collecting frameworks and more interested in understanding **how the pieces fit together**.
-
 ---
 
-## 📊 GitHub Activity
-
-## `$ git log --oneline`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abid-arham&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars,prs,issues&custom_title=GitHub+Activity&icon_color=4AFCB0&title_color=4AFCB0" height="165" alt="GitHub Stats"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abid-arham&layout=compact&theme=github_dark&hide_border=true&title_color=4AFCB0" height="165" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abid-arham&theme=github-compact&hide_border=true&area=true&color=4AFCB0&line=4AFCB0&point=ffffff&custom_title=Contribution+Activity" alt="Contribution Graph"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=abid-arham&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=4AFCB0&fire=4AFCB0&currStreakLabel=4AFCB0" alt="GitHub Streak"/>
-
-</div>
 
 ---
 
@@ -283,13 +209,13 @@ I'm less interested in collecting frameworks and more interested in understandin
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="www.linkedin.com/in/abid-arham-111457245" target="_blank">
 <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
  
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mix.arham@gmail.com">
 <img src="https://img.shields.io/badge/Email-1E2A3A?style=for-the-badge&logo=gmail&logoColor=4AFCB0"/>
 </a>
 
@@ -305,6 +231,5 @@ I'm less interested in collecting frameworks and more interested in understandin
 
 <br/><br/>
 
-> **"Consistency compounds. Build. Learn. Improve. Repeat."**
 
 </div>
