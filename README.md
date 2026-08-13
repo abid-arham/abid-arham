@@ -179,31 +179,7 @@ A backend-focused REST API project built to strengthen my understanding of typed
 
 ---
 
-## 🧠 Currently Learning
 
-```text
-TypeScript
-     │
-     ▼
-Advanced Node.js
-     │
-     ▼
-PostgreSQL + Prisma
-     │
-     ▼
-Backend Architecture
-     │
-     ▼
-Docker & Deployment
-     │
-     ▼
-Production-Ready Applications
-```
-
----
-
-
----
 
 ## 📫 `$ ./contact.sh`
 
