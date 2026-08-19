@@ -81,7 +81,7 @@ A full-stack e-commerce application focused on customer and administrative workf
 * Order management
 * Database-backed application logic
 
-<a href="YOUR_NEXTCART_REPO_URL">→ View Repository</a>
+<a href="https://github.com/abid-arham/Project-NextCart.git">→ View Repository</a>
 
 ---
 
@@ -99,7 +99,7 @@ A full-stack travel listing application inspired by real-world marketplace platf
 * Mapping / geolocation integration
 * Server-side rendering
 
-<a href="YOUR_WANDERLUST_REPO_URL">→ View Repository</a>
+<a href="https://github.com/abid-arham/Wanderlust.git">→ View Repository</a>
 
 ---
 
@@ -116,7 +116,7 @@ A backend-focused REST API project built to strengthen my understanding of typed
 * Database interaction
 * Structured backend architecture
 
-<a href="YOUR_DEVPULSE_REPO_URL">→ View Repository</a>
+<a href="https://github.com/abid-arham/devpulse.git">→ View Repository</a>
 
 ---
 
