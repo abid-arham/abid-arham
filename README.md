@@ -1,15 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=2200&pause=800&color=4AFCB0&center=true&vCenter=true&width=520&lines=Junior+Full-Stack+Developer;Backend+%7C+TypeScript+%7C+Node.js;REST+APIs+%7C+PostgreSQL+%7C+MongoDB" alt="Typing SVG" />
-
-<h1>Abid Arham</h1>
+<img src="banner.png" alt="Abid Arham, Backend and Full-Stack Developer" width="100%"/>
 
 <p>
-  <strong>Full-Stack Developer · Backend-Focused · CSE Student</strong>
-</p>
-
-<p>
-  <a href="www.linkedin.com/in/abid-arham-111457245" target="_blank">
+  <a href="https://www.linkedin.com/in/abid-arham-111457245" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -185,7 +179,7 @@ A backend-focused REST API project built to strengthen my understanding of typed
 
 <div align="center">
 
-<a href="www.linkedin.com/in/abid-arham-111457245" target="_blank">
+<a href="https://www.linkedin.com/in/abid-arham-111457245" target="_blank">
 <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
