@@ -66,7 +66,7 @@ I'm currently looking for opportunities where I can grow as a software engineer 
 **Next.js 16 · React 19 · TypeScript · Express 5 · PostgreSQL · Prisma · Stripe · Redis**
 
 <a href="https://assignment-7-three-xi.vercel.app/">
-  <img src="screenshots/quad.png" alt="Quad — university management system landing page" width="100%"/>
+  <img src="quad.png" alt="Quad — university management system landing page" width="100%"/>
 </a>
 
 **The problem:** University admin is spread across disconnected systems — registration in one place, grades in another, tuition in a third. Students can't see what they owe, instructors re-key grades, and the registrar reconciles by hand.
@@ -93,7 +93,7 @@ I'm currently looking for opportunities where I can grow as a software engineer 
 **Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · REST API · OAuth · Claude API**
 
 <a href="https://assignment-5-alpha-brown.vercel.app/">
-  <img src="screenshots/fixitnow.png" alt="FixItNow — home services marketplace home page" width="100%"/>
+  <img src="fixitnow.png" alt="FixItNow — home services marketplace home page" width="100%"/>
 </a>
 
 **The problem:** Booking a plumber or electrician means calling around blind — no verified ratings, no visible availability, no way to tell if the person is any good until they show up. And customers don't search by service name, they search by symptom: *"sink is leaking."*
@@ -122,7 +122,7 @@ I'm currently looking for opportunities where I can grow as a software engineer 
 **React 19 · Vite · Redux Toolkit · Tailwind + DaisyUI · Node.js · Express 5 · MongoDB · Mongoose · JWT · Zod**
 
 <a href="https://course-master4981.netlify.app/">
-  <img src="screenshots/coursemaster.png" alt="CourseMaster — e-learning platform course catalogue" width="100%"/>
+  <img src="coursemaster.png" alt="CourseMaster — e-learning platform course catalogue" width="100%"/>
 </a>
 
 **The problem:** Small course creators end up stitching together a video host, a payment link and a spreadsheet to track who finished what. There's no single place that handles enrollment, progress, assignments and grading together.
@@ -190,7 +190,7 @@ I'm currently looking for opportunities where I can grow as a software engineer 
 **Node.js · Express · MongoDB · Mongoose · EJS · Passport · Cloudinary · Mapbox**
 
 <a href="https://wanderlust-oa2t.onrender.com/listings">
-  <img src="screenshots/wanderlust.png" alt="Wanderlust — travel listing marketplace explore page" width="100%"/>
+  <img src="wanderlust.png" alt="Wanderlust — travel listing marketplace explore page" width="100%"/>
 </a>
 
 **The problem:** A classic marketplace exercise — let anyone list a property, but make sure only the owner can edit it, only real users can review it, and every listing lands on a map.
